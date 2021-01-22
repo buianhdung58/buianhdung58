@@ -1,0 +1,7 @@
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Quản lí phần mềm\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

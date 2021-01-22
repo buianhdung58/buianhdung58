@@ -1,0 +1,7 @@
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\obj\Debug\Ptbac1.csprojAssemblyReference.cache
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\obj\Debug\Ptbac1.csproj.CoreCompileInputs.cache
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\bin\Debug\Ptbac1.exe.config
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\bin\Debug\Ptbac1.exe
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\bin\Debug\Ptbac1.pdb
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\obj\Debug\Ptbac1.exe
+D:\Quản lí phần mềm\Ptbac1\Ptbac1\obj\Debug\Ptbac1.pdb
